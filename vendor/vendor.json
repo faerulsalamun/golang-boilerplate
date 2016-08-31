@@ -1,0 +1,61 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "0tLUaPu821o4eu5/hQ0wVUQifPU=",
+			"path": "github.com/gin-gonic/gin",
+			"revision": "f931d1ea80ae95a6fc739213cdd9399bd2967fb6",
+			"revisionTime": "2016-05-25T12:45:45Z"
+		},
+		{
+			"checksumSHA1": "lN5Rz/Vfg+X14cNLqTiODyVsnck=",
+			"path": "github.com/spf13/viper",
+			"revision": "7fb2782df3d83e0036cc89f461ed0422628776f4",
+			"revisionTime": "2016-08-12T18:14:35Z"
+		},
+		{
+			"checksumSHA1": "39V1idWER42Lmcmg2Uy40wMzOlo=",
+			"path": "gopkg.in/go-playground/validator.v8",
+			"revision": "5f57d2222ad794d0dffb07e664ea05e2ee07d60c",
+			"revisionTime": "2016-07-18T13:41:25Z"
+		},
+		{
+			"checksumSHA1": "1D8GzeoFGUs5FZOoyC2DpQg8c5Y=",
+			"path": "gopkg.in/mgo.v2",
+			"revision": "3f83fa5005286a7fe593b055f0d7771a7dce4655",
+			"revisionTime": "2016-08-18T02:01:20Z"
+		},
+		{
+			"checksumSHA1": "YsB2DChSV9HxdzHaKATllAUKWSI=",
+			"path": "gopkg.in/mgo.v2/bson",
+			"revision": "3f83fa5005286a7fe593b055f0d7771a7dce4655",
+			"revisionTime": "2016-08-18T02:01:20Z"
+		},
+		{
+			"checksumSHA1": "XQsrqoNT1U0KzLxOFcAZVvqhLfk=",
+			"path": "gopkg.in/mgo.v2/internal/json",
+			"revision": "3f83fa5005286a7fe593b055f0d7771a7dce4655",
+			"revisionTime": "2016-08-18T02:01:20Z"
+		},
+		{
+			"checksumSHA1": "LEvMCnprte47qdAxWvQ/zRxVF1U=",
+			"path": "gopkg.in/mgo.v2/internal/sasl",
+			"revision": "3f83fa5005286a7fe593b055f0d7771a7dce4655",
+			"revisionTime": "2016-08-18T02:01:20Z"
+		},
+		{
+			"checksumSHA1": "+1WDRPaOphSCmRMxVPIPBV4aubc=",
+			"path": "gopkg.in/mgo.v2/internal/scram",
+			"revision": "3f83fa5005286a7fe593b055f0d7771a7dce4655",
+			"revisionTime": "2016-08-18T02:01:20Z"
+		},
+		{
+			"checksumSHA1": "yV+2de12Q/t09hBGYGKEOFr1/zc=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "e4d366fc3c7938e2958e662b4258c7a89e1f0e3e",
+			"revisionTime": "2016-07-15T03:37:55Z"
+		}
+	],
+	"rootPath": "github.com/faerulsalamun/golang-boilerplate"
+}
